@@ -1,0 +1,18 @@
+# C/C++ build files
+*.o
+*.cmd
+*.mod
+*.mod.c
+*.ko
+modules.order
+Module.symvers
+
+# Executables
+user_app/File_Explorer
+
+# Temporary/backup files
+*.backup
+*~
+
+# Kernel build files
+*.tmp
