@@ -118,13 +118,11 @@ This project was customized and extended as part of my Linux/System Programming 
 - Added the ability to reset the driver operation counter.
 - Improved the terminal-based menu and user interface.
 - Built and tested the Linux kernel module on **WSL2 Ubuntu**.
-- Added project documentation and screenshots.
-
+-Added project documentation and testing details.
 ### Technologies Used
 
 - C++
-- Linux / WSL2
-- Linux System Programming
+- Linux / WSL2- Linux System Programming
 - Linux Kernel Modules
 - Character Device Driver
 - `ioctl()`
