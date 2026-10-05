@@ -99,3 +99,37 @@ The project follows a layered architecture.
                     │ Device Management        │
                     │ Character Device Layer   │
                     └──────────────────────────┘
+
+---
+
+## 👨‍💻 My Contributions
+
+This project was customized and extended as part of my Linux/System Programming work.
+
+### Features Added / Modified
+
+- Added a **System Resource Monitor** to display:
+  - CPU usage
+  - RAM usage
+  - Disk usage
+- Integrated a **Linux Character Device Driver Monitor**.
+- Added `ioctl()` based communication between the user-space application and kernel-space driver.
+- Added driver status and operation counter monitoring.
+- Added the ability to reset the driver operation counter.
+- Improved the terminal-based menu and user interface.
+- Built and tested the Linux kernel module on **WSL2 Ubuntu**.
+- Added project documentation and screenshots.
+
+### Technologies Used
+
+- C++
+- Linux / WSL2
+- Linux System Programming
+- Linux Kernel Modules
+- Character Device Driver
+- `ioctl()`
+- Git & GitHub
+
+## 📌 Attribution
+
+This project was developed by extending and customizing an existing Linux File Explorer project. The original project structure and implementation were used as a starting point, and additional functionality and modifications were made for this version.
